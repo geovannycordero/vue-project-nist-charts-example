@@ -1,14 +1,19 @@
-# vue-project-charts
+# VueJS Project: NIST Charts Example
 
 This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+## Dependencies
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- [Vue 3](https://v3.vuejs.org/)
+- Node.js `v20.18.0`
+- Tailwind CSS `v3.4.14 `
+- [Chart.js](https://www.chartjs.org) `v4.4.5`
+- [Vue Chart.js](https://vue-chartjs.org) `v5.3.1`
+- [headless UI](https://headlessui.com/v1) `v1.7.23`
 
 ## Type Support for `.vue` Imports in TS
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking.
 
 ## Customize configuration
 
